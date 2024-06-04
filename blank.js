@@ -12,7 +12,7 @@ console.log(typeof(friends))
 var family=Array("rat","bat","goat")
 console.log(typeof(family))
 
-var player =("wood","ward","catona","sterling")
+var player =["wood","ward","catona","sterling"]
 console.log(typeof(player))
 
 //null

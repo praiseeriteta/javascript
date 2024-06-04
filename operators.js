@@ -49,9 +49,9 @@ console.log(`is 20 greater than or equal to 20:${age>=20}`)
 console.log(`is 20 less than or equal to 20:${age<=20}`)
 console.log(`is 20 not equal to 20:${age!=20}`)
 
-//logical(&,||)
-//and will only be false when both are false
-//or  will only be true when both  are true
+//logical(&,||)`
+//and will only be true when both are true
+//or  will only be false when both  are false
 var myName ='jess';
 var myAge= 45;
 console.log("---------------------- and ----------")

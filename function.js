@@ -84,3 +84,30 @@ function times(a){
     return a*3
 }
 console.log(times(7))
+
+
+//anonymous function
+var life=function(){
+    console.log('wonder')
+}
+console.log(typeof(life))
+life()
+
+var food=function addValue(s,f){
+    console.log(27)
+}
+console.log(typeof(food))
+food()
+
+
+var goal=function(){
+    console.log('hellium')
+}
+console.log(typeof(goal))
+goal()
+
+var turn=function addvalue(a,b){
+    console.log(45)
+}
+console.log(typeof(turn))
+turn()
